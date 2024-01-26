@@ -161,7 +161,7 @@ const ProfileScreen = ({ location, history }) => {
                         <input type="email" name="" id=""className="form-control" placeholder="Enter Email" value={email} onChange={(e) => setEmail(e.target.value)}/>
                     </div>
                     <div className="form-group my-2">
-                      <label htmlFor="">Password</label>
+                      <label htmlFor="">Reset Password</label>
                         <input type="password" name="" id="" className="form-control" placeholder="Enter Password" value={password} onChange={(e) => setPassword(e.target.value)} />
                     </div>
                     <div className="form-group">
