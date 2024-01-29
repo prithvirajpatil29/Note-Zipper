@@ -2,7 +2,7 @@
 
 Live Link to Note-Zipper website - https://note-zipper-ussl.onrender.com/
 
-##About Note-Zipper
+# About Note-Zipper
 
 Note-Zipper is a robust project centered around user-friendly note management. Users can register and log in securely, creating a personalized space for their notes. The system empowers users to create, categorize, update, and delete notes, providing a comprehensive solution for efficient content organization. Each user has the flexibility to categorize their notes, enhancing accessibility and ease of use. The editing feature allows for real-time updates, ensuring that notes remain current and relevant. Additionally, users can streamline their content by deleting notes they no longer need.
 
